@@ -1,5 +1,4 @@
 # node-ts
-
 A simple Node backend built on TypeScript
 
 ## Quick-Start
